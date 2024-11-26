@@ -1,0 +1,268 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+input{
+    height: 20px;
+    border-radius: 10px;
+    border-color: rgb(214, 6, 241);
+    padding-left: 10px;
+}
+.details{
+    border: 1px solid violet;
+    width: 1153px;
+    height: 549px;
+    background-color: rgb(240, 233, 233);
+    border-width: 1px;
+}
+.sinfo{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.first{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.t1{
+    margin-left: 20px;
+    width: 270px;   
+}
+.t2{
+    margin-left: 20px;
+    width: 210px;
+}
+.t3{
+    width: 100px;
+    height: 22px;
+    margin-left: 20px;
+    padding-left: 15px;
+}
+.t4{
+    margin-left: 20px;
+    width: 110px;
+    padding-left: 20px;
+}
+.t5{
+    margin-left: 20px;
+    width: 200px;
+}
+.nam{
+    padding-left: 6px;
+}
+.rege{
+    padding-left: 267px;
+}
+.gen{
+    padding-left: 183px;
+}
+.ages{
+    padding-left: 78px;
+}
+.clas{
+    padding-left: 127px;
+}
+.third{
+    padding-left: 20px;
+    margin-top: 15px;
+}
+.t6{
+    margin-left: 15px;
+    width: 160px;
+}
+.t7{
+    margin-left: 15px;
+    width: 130px;
+}
+.t8{
+    margin-left: 15px;
+    width: 200px;
+}
+.t9{
+    margin-left: 15px;
+    width: 200px;
+}
+.t10{
+    margin-left: 10px;
+    width: 250px;
+}
+.batch{
+    margin-left: 3px;
+}
+.blood{
+    margin-left: 150px;
+}
+.number1{
+    margin-left: 70px;
+}
+.number2{
+    margin-left: 154px;
+}
+.semail{
+    margin-left: 145px;
+}
+.pinfo{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.four{
+    margin-left: 23px;
+    margin-top: 10px;
+}
+.i1{
+    margin-left: 20px;
+    width: 270px;
+}
+.i2{
+    margin-left: 20px;
+    width: 250px;
+}
+.i3{
+    margin-left: 20px;
+    width: 250px;
+}
+.five{
+    margin-left: 23px;
+    margin-top: 10px;
+}
+.i4{
+    margin-left: 20px;
+    width: 270px;
+}
+.i5{
+    margin-left: 20px;
+    width: 250px;
+}
+.i6{
+    margin-left: 20px;
+    width: 250px;
+}
+.l2{
+    margin-left: 220px;
+}
+.l3{
+    margin-left: 200px;
+}
+.l5{
+    margin-left: 220px;
+}
+.l6{
+    margin-left: 200px;
+}
+.seven{
+    margin-left: 23px;
+    margin-top: 10px;
+}
+.i7{
+    margin-left: 20px;
+    width: 270px;
+}
+.i8{
+    margin-left: 20px;
+    width: 270px;
+}
+.i9{
+    margin-left: 20px;
+    width: 340px;
+}
+.l8{
+    margin-left: 240px;
+}
+.l9{
+    margin-left: 230px;
+}
+.ainfo{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.e1{
+    display: flex;
+}
+.i10{
+    width: 380px;
+    margin-left: 20px;
+    height: 110px;
+    /* 
+    width: 480px;
+    height: 90px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    resize: none; */
+    border-color: rgb(214, 6, 241);
+}
+.i11{
+    margin-left: 20px;
+    width: 290px;
+}
+.i12{
+    margin-left: 20px;
+    width: 290px;
+}
+.i13{
+    margin-left: 20px;
+    width: 290px;
+}
+.i14{
+    margin-left: 20px;
+    width: 290px;
+}
+.twevel{
+    margin-left: 23px;
+    margin-top: 6px;
+}
+.l11{
+    margin-left: 23px;
+}
+.l12{
+    margin-left: 250px;
+}
+.l13{
+    margin-left: 23px;
+}
+.l14{
+    margin-left: 280px;
+}
+.r2{
+    margin-top: 5px;
+}
+.submit{
+    margin-left: 20px;
+    margin-top: 4px;
+    width: 100px;
+    height: 30px;
+    background-color: violet;
+    cursor: pointer;
+}
+.details button{
+    margin-left: 1068px;
+    margin-top: 3px;
+    background-color: transparent;
+    height: 22px;
+    width: 22px;
+    font-size:xx-large;
+    border: 0px solid black;
+    cursor: pointer;
+}
+.back{
+    margin-left: 840px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 13px;
+    padding-right: 13px;
+    background-color: violet;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+}

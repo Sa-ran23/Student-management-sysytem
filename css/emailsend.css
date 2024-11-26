@@ -1,0 +1,81 @@
+.emailsender{
+    margin-left: 100px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.stemail{
+    display: none;
+}
+.ehead{
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    width: 1115px;
+    height: 90px;
+    padding-left: 380px;
+    padding-top: 28px;
+    margin-left: 15px;
+    margin-top: 15px;
+    background-color: violet;
+}
+.emailfill1{
+    margin-left: 170px;
+    margin-top: 20px;
+}
+.eml1{
+    font-weight: bold;
+}
+.eml2{
+    margin-left: 320px;
+    font-weight: bold;
+}
+.eml3{
+    margin-left: 170px;
+    font-weight: bold;
+}
+.emailfill2{
+    margin-left: 170px;
+    margin-top: 10px;
+}
+.emi1{
+    width: 300px;
+    height: 30px;
+    font-size: 17px;
+    border-radius: 7px;
+    padding-left: 13px;
+}
+.emi2{
+    margin-left: 65px;
+    width: 450px;
+    height: 30px;
+    font-size: 17px;
+    border-radius: 7px;
+    padding-left: 13px;
+}
+.emailfill3{
+    margin-top: 20px;
+}
+.emailfill4{
+    margin-top: 10px;
+    margin-left: 155px;
+}
+.emi3{
+    width: 820px;
+    height: 250px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 20px;
+    font-size: 17px;
+}
+.embutton{
+    margin-left: 470px;
+    margin-top: 20px;
+    width: 130px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: violet;
+    cursor: pointer;
+}

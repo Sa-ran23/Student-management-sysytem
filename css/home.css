@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.homes{
+    overflow: hidden;
+}
+.numboxs{
+    display: flex;
+}
+
+.numbox1{
+    border: 1px solid black;
+    width: 250px;
+    height: 130px;
+    margin-left: 130px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: rgb(252, 152, 247);
+}
+.lab1{
+    margin-left: 70px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.num1{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.numbox2{
+    border: 1px solid black;
+    width: 350px;
+    height: 130px;
+    margin-left: 130px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: rgb(190, 114, 241);
+}
+.boys{
+    padding-left: 60px;
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.girls{
+    padding-left: 150px;
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.boy{
+    margin-left: 60px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.girl{
+    margin-left: 130px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.gentotal{
+    display: flex;
+}
+.gentat{
+    display: flex;
+}
+.htopic{
+    border: 1px solid black;
+    width: 1157px;
+    height: 100px;
+    padding-left: 210px;
+    padding-top: 20px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.num2box{
+    margin-left: 100px;
+}
+.rebatch{
+    display: flex;
+    margin-left: 400px;
+    margin-top:60px;
+}
+.tch{
+    font-size: 20px;
+    font-weight: bold;
+}
+.bth{
+    margin-left: 5px;
+    border-radius: 4px;
+    width: 200px;
+    height: 25px;
+    padding-left: 10px;
+}
+.resultbox{
+    display: flex;
+}
+.numbox{
+    border: 1px solid black;
+    margin-left: 60px;
+    margin-top: 30px;
+    width: 300px;
+    height: 130px;
+    background-color: violet;
+    border-radius: 5px;
+}
+.lab{
+    margin-left: 70px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.num{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.bbth{
+    margin-left: 10px;
+    width: 60px;
+    height: 25px;
+    border-radius: 30px;
+    cursor: pointer;
+    background-color: rgb(247, 187, 247);
+}

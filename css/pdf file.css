@@ -1,0 +1,125 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.uploadtext{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 575px; 
+    margin-top: 5px;
+}
+.namebox{
+    width: 260px;
+    height: 30px;
+    padding-left: 10px;
+    margin-left: 420px;
+    border-radius: 10px;
+    margin-top: 14px;
+}
+.typebox{
+    width: 150px;
+    height: 28px;
+    font-size: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.input{
+    padding: 4px;
+    font-size: 20px;
+}
+.image-container{
+    margin-left: 410px;
+}
+.image-container img {
+    width: 70px;
+    height: auto;
+    cursor: pointer;
+    margin-top: 12px;
+    margin-left: 190px;
+    position: fixed;
+}
+#fileInput {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+.filebutton{
+    margin-left: 585px;
+    width: 100px;
+    height: 25px;
+    margin-top: 87px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: whitesmoke;
+}
+.content{
+    border: 1px solid black;
+    background-color: rgb(250, 249, 248);
+    width: 1171px;
+    height: 407px;
+    margin-left: 95px;
+    margin-top: 10px;
+    border-radius: 20px;
+    position: fixed;
+}
+.content .file-span{
+    display: flex;
+    flex-wrap: wrap;
+}
+.content span{
+    width: 200px;
+    height:60px;
+}
+.dtitle{
+    margin-top: 5px;
+    margin-left: 490px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.docfiles{
+    border: 1px solid black;
+    background-color: rgb(215, 150, 228);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+span.docfiles {
+    width: auto;
+    height: 40px;
+    margin-left: 50px;
+}
+.fileimg{
+    width: 20px;
+    height: auto;
+}
+.dlink{
+    margin-left: 5px;
+    width: fit-content;
+}
+.ddelete{
+    border: 1px solid black;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+    
+}
+.docfiles .ddelete{
+    margin-left: 20px;
+    /* position: fixe */
+}
+.pdf-file{
+    overflow: hidden;
+}

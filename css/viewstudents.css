@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    border: 1px solid black;
+    width: 600px;
+    height: 185px;
+    border-radius: 5px;
+    background-color: rgb(233, 147, 233);
+}
+.first{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.second{
+    margin-left: 10px;
+}
+.rege{
+    margin-left: 147px;
+}
+.nam{
+    margin-left: 10px;
+}
+.clas{
+    margin-left: 132px;
+}
+input{
+    margin-left: 10px;
+    border-radius: 5px;
+    height: 20px;
+}
+.batch{
+    margin-left: 20px;
+}
+.t6{
+    margin-left: 20px;
+}
+.state{
+    margin-left: 20px;
+}
+.i13{
+    margin-left: 20px;
+}
+.number1{
+    margin-left: 150px;
+}
+.semail{
+    margin-left: 102px;
+}
+.third{
+    margin-top: 5px;
+}
+.five{
+    margin-top: 5px;
+}

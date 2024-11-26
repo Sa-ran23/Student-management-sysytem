@@ -1,0 +1,489 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Main student page */
+.head{
+    border: 1px solid gray;
+    background-color: #e281fa;
+    height: 115px;
+}
+.head p{
+    padding-top: 40px;
+}
+p{
+    display: flex;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.add-a{
+    margin-left: 950px;
+    font-size: 16px;
+    background-color: rgb(205, 152, 226);
+    width: 145px;
+    height: 30px;
+    border-radius: 40px;
+    border: 1px solid black;
+}
+.head a{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.users{
+    margin-left: 88px;
+}
+button{
+    margin-bottom: 10px;
+}
+.no-result{
+    margin-left: 550px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.list{
+    display: flex;
+    border: 0px solid black;
+    background-color: white;
+    border-radius: 10px;
+    width: 1150px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 10px;
+    margin-left: 15px;
+    padding-left: 40px;
+    height: 40px;
+}
+.link a{
+    padding-left: 7px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #e281fa;
+    color: aliceblue;
+    font-size: 15px;
+}
+.link{
+    margin-left: 920px;
+    padding-top: 8px;
+    position: fixed;
+
+}
+.reg{
+    margin-left: 400px;
+    padding-top: 8px;
+}
+img{
+    width: 30px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 50%;
+    
+}
+/* add student page */
+.main{
+    background-color: #e281fa ;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 950px;
+    height: 400px;
+} 
+.box{
+    display: flex;
+} 
+.searchstd{
+    width: 250px;
+    height: 25px;
+    margin-left: 900px;
+    margin-top: 5px;
+    border-radius: 5px;
+    padding-left: 15px;
+}
+.topic{
+    display: block;
+}
+.title p{
+    font-size: 18px;
+    font-family:sans-serif ;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.title{
+    display: flex;
+}
+.title button{
+    margin-left: 740px;
+    margin-top: 12px;
+    height: 22px;
+    width: 22px;
+    background-color: transparent;
+    border: 0px solid black;
+    font-size:xx-large;
+    color: #f304bf;
+    cursor: pointer;
+}
+.info{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 14px;
+    margin-left: 7px;
+    margin-bottom: 7px;
+    margin-right: 7px;
+    width:290px;
+    height: 310px;
+}
+.sidepage{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 14px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    width: 740px;
+    height: 310px;
+}
+.info p{
+    font-size: 20px;
+    margin-left: 47px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.info img{
+    display: block;
+    margin-left: 0px;
+    margin-top: 4px;
+    width: 130px;
+}
+.viewimg{
+    display: block;
+    margin-left: 80px;
+    margin-top: 4px;
+    width: 130px;
+    height: 130px;
+    border: 0px solid black;
+}
+.info label{
+    display: block;
+    margin-left: 22px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.info .profileimg{
+    border: none;
+    cursor: pointer;
+}
+.info input{
+    border: 1px solid  #e281fa;
+    width: 240px;
+    height: 27px;
+    margin-left: 20px;
+    border-radius: 15px;
+    padding-left: 20px;
+    margin-right: 10px;
+}
+
+.bar{
+    display: block;
+    padding-left: 440px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.bar a{
+    margin-left: 12px;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: rgb(230, 37, 236);
+    cursor: pointer;
+}
+.t1{
+    margin-left: 30px;
+    width: 280px;
+    border-radius: 3px;
+    margin-top: 2px;
+}
+.t2{
+    margin-left: 20px;
+    width: 250px;
+    border-radius: 4px;
+}
+.first{
+    margin-top: 42px;
+}
+.sidepage input{
+    border: 1px solid  #e281fa;
+    height: 25px;
+    padding-left: 10px;
+    border-radius: 3px;
+}
+.sidepage select{
+    border: 1px solid  #e281fa;
+    height: 25px;
+}
+.nam{
+    padding-left: 32px;
+}
+.rege{
+    margin-left: 274px;
+}
+.third{
+    margin-top: 22px;
+}
+.t3{
+    margin-left: 30px;
+    border-radius: 3px;
+    width: 100px;
+    padding-left: 17px;
+    font-size: 15px;
+}
+.t4{
+    margin-left: 30px;
+    border-radius: 3px;
+    width: 200px;
+}
+.t5{
+    margin-left: 32px;
+    width: 180px;
+}
+
+.gen{
+    margin-left: 30px;
+}
+.ages{
+    margin-left: 84px;
+}
+.clas{
+    margin-left: 215px;
+}
+.t6{
+    margin-left: 30px;
+}
+.t7{
+    margin-left: 20px;
+    width: 110px;
+}
+.t8{
+    margin-left: 10px;
+    width: 250px;
+}
+.five{
+    margin-top: 22px;
+}
+.batch{
+    margin-left: 30px;
+}
+.blood{
+    margin-left: 158px;
+}
+.number2{
+    margin-left: 52px;
+}
+.updatebutton{
+    margin-left: 635px;
+    margin-top: 100px;
+}
+.updatebutton input{
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}
+/*parent info */
+.parent{
+    width: 600px
+}
+.seven{
+    margin-top: 25px;
+}
+.l1{
+    margin-left: 15px;
+}
+.l2{
+    margin-left: 280px;
+}
+.i1{
+    margin-left: 15px;
+    width: 340px;
+}
+.i2{
+    margin-left: 10px;
+    width: 200px;
+}
+.eight{
+    margin-top: 7px;
+}
+.l3{
+    margin-left: 15px;
+}
+.i3{
+    margin-left: 15px;
+    width: 565px;
+}
+.nine{
+    margin-top: 7px;
+}
+.l4{
+    margin-left: 15px;
+}
+.l5{
+    margin-left: 280px;
+}
+.i4{
+    margin-left: 15px;
+    width: 340px;
+}
+.i5{
+    margin-left: 10px;
+    width: 200px;
+}
+.ten{
+    margin-top: 5px;
+}
+.l6{
+    margin-left: 15px;
+}
+.i6{
+    margin-left: 15px;
+    width: 565px;
+}
+.eleven{
+    margin-top: 5px;
+}
+.l7{
+    margin-left: 15px;
+}
+.l8{
+    margin-left: 122px;
+}
+.l9{
+    margin-left: 122px;
+}
+.i7{
+    margin-left: 15px;
+    width: 160px;
+}
+.i8{
+    margin-left: 10px;
+    width: 160px;
+}
+.i9{
+    margin-left: 10px;
+    width: 195px;
+}
+.updatebutton2{
+    margin-left: 635px;
+    margin-top: 30px;
+}
+.updatebutton2 input{
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}
+/*address info */
+.address{
+    width: 630px;
+}
+.twevel{
+    margin-top: 25px;
+}
+.l10{
+    margin-left: 15px;
+}
+textarea{
+    resize: none;
+    margin-left: 15px;
+    width: 580px;
+    height: 100px;
+    border: 1px solid  #e281fa;
+    padding-left: 10px;
+    border-radius: 3px;
+    padding-top: 5px;
+}
+.thirteen{
+    margin-top: 5px;
+}
+.l11{
+    margin-left: 15px;
+}
+.l12{
+    margin-left: 245px;
+}
+.i11{
+    margin-left: 15px;
+    width: 277px;
+}
+.i12{
+    margin-left: 10px;
+    width: 277px;
+}
+.fourteen{
+    margin-top: 5px;
+}
+.l13{
+    margin-left: 15px;
+}
+.l14{
+    margin-left: 265px;
+}
+.i13{
+    margin-left: 15px;
+    width: 277px;
+}
+.i14{
+    margin-left: 10px;
+    width: 277px;
+}
+.updatebutton3{
+    margin-left: 270px;
+    margin-top: 10px;
+}
+.updatebutton3 input{
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}
+.pic{
+    justify-content: center;
+    bottom: 30px;
+}
+/* profile */
+.profileimg{
+    margin-top: 70px;
+    margin-left: 200px;
+    border: none;
+}
+/* All hidden */
+.hidden{
+    display: none;
+}
+/* popup screen */
+.popup-container{
+    display: none;
+    position: fixed;
+    top: 420px;
+    left: 700px;
+    transform: translate(-50%,-50%);
+    z-index: 999;
+}
+iframe{
+    border: 0px solid black;
+}
+.popup-containers{
+    display: none;
+    position: fixed;
+    top: 410px;
+    left: 700px;
+    transform: translate(-50%,-50%);
+    z-index: 999;
+}
